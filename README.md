@@ -1,1 +1,7 @@
-# Tarea-2
+# Tarea2
+Laboratorio de Ciencia de Datos
+
+Integrantes:
+* Juan Maulén
+* Pedro Pérez
+* Tomás Rojas
