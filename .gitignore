@@ -2,3 +2,5 @@ chest_xray/*
 .ipynb_checkpoints/*.ipynb
 .vscode*
 prueba/*
+*.pdf
+.gitignore
